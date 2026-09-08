@@ -1,0 +1,17 @@
+a:link {
+  color: #0000FF; /* Bright Blue for unvisited links */
+  text-decoration: none; /* Optional: Removes the default underline */
+}
+
+a:visited {
+  color: #551A8B; /* Dark Purple for visited links */
+}
+
+a:hover {
+  color: #1E90FF; /* Dodger Blue (a lighter blue) on hover */
+  text-decoration: underline; /* Optional: Adds an underline on hover */
+}
+
+a:active {
+  color: #FF0000; /* Red while clicking */
+}
