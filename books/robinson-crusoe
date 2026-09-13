@@ -1,0 +1,244 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <title>Robinson Crusoe | Novel Waypoint</title>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="description" content="Robinson Crusoe by Daniel Defoe — a classic survival adventure recommended for fans of Minecraft.">
+
+  <link rel="stylesheet" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/font-awesome.min.css">
+  <link rel="stylesheet" href="../css/aos.css">
+  <link rel="stylesheet" href="../css/owl.carousel.min.css">
+  <link rel="stylesheet" href="../css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="../css/templatemo-digital-trend.css">
+  <link rel="stylesheet" href="../css/linkhighligts.css">
+
+</head>
+
+<body>
+
+  <!-- MENU BAR -->
+  <nav class="navbar navbar-expand-lg">
+    <div class="container">
+
+      <a class="navbar-brand" href="../index.html">
+        <i class="fa fa-line-chart"></i>
+        Novel Waypoint
+      </a>
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse"
+        data-target="#navbarNav" aria-controls="navbarNav"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarNav">
+
+        <ul class="navbar-nav ml-auto">
+
+          <li class="nav-item">
+            <a href="../index.html" class="nav-link">Home</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="../blog.html" class="nav-link">Blog</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="../policy.html" class="nav-link">Privacy Policy</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="../ShatteredStories.html" class="nav-link">Shattered Stories</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="../contact.html" class="nav-link">Contact</a>
+          </li>
+
+        </ul>
+
+      </div>
+    </div>
+  </nav>
+
+
+  <!-- BOOK DETAILS -->
+  <section class="about section-padding pb-0" id="about">
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-12">
+
+          <div class="about-info">
+
+            <p class="mb-2">
+              <a href="../games/minecraft.html">
+                Minecraft recommendation
+              </a>
+            </p>
+
+            <h1 class="mb-4">
+              Robinson Crusoe
+            </h1>
+
+            <h4 class="mb-3">
+              Daniel Defoe
+            </h4>
+
+            <p>
+              <strong>Recommended for fans of:</strong>
+              <a href="../games/minecraft.html">
+                Minecraft
+              </a>
+            </p>
+
+            <p>
+              <strong>Genre:</strong>
+              Survival adventure / classic fiction
+            </p>
+
+            <p>
+              <strong>First published:</strong>
+              1719
+            </p>
+
+            <div class="row align-items-start mt-5">
+
+              <div class="col-lg-5 col-md-6 mb-4">
+                <img
+                  src="../images/books/robinson-crusoe.jpg"
+                  class="img-fluid"
+                  alt="Cover of Robinson Crusoe by Daniel Defoe">
+              </div>
+
+              <div class="col-lg-7 col-md-6">
+
+                <h3 class="mb-4">
+                  About the book
+                </h3>
+
+                <p>
+                  After being shipwrecked on a remote island, Robinson Crusoe
+                  must learn how to survive with very limited supplies and no
+                  immediate hope of rescue.
+                </p>
+
+                <p>
+                  He builds shelter, searches for food, creates tools and
+                  gradually transforms the island into a place he can call
+                  home. Every improvement depends on patience, planning and
+                  making the most of the resources available to him.
+                </p>
+
+                <p>
+                  Robinson Crusoe is one of the classic survival stories.
+                  Its appeal comes from watching a character gather materials,
+                  solve practical problems and build a life from almost
+                  nothing — making it a natural recommendation for Minecraft
+                  players who enjoy exploration and self-sufficiency.
+                </p>
+
+                <h3 class="mt-5 mb-4">
+                  What to expect
+                </h3>
+
+                <ul>
+                  <li>Survival on a remote island</li>
+                  <li>Gathering and managing limited resources</li>
+                  <li>Building shelter and useful tools</li>
+                  <li>Exploration and discovery</li>
+                  <li>Problem-solving and self-sufficiency</li>
+                  <li>Isolation and resilience</li>
+                  <li>A foundational survival adventure</li>
+                </ul>
+
+                <div class="mt-5">
+
+                  <a href="YOUR-AMAZON-LINK-HERE"
+                    class="btn custom-btn"
+                    target="_blank"
+                    rel="nofollow sponsored noopener">
+                    View book on Amazon
+                  </a>
+
+                </div>
+
+              </div>
+
+            </div>
+
+            <div class="mt-5 mb-5">
+
+              <a href="../games/minecraft.html">
+                <i class="fa fa-arrow-left"></i>
+                Back to Minecraft recommendations
+              </a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-lg-5 mx-lg-auto col-md-8 col-10">
+          <h1 class="text-white">
+            Find your next <strong>great read</strong>.
+          </h1>
+        </div>
+
+        <div class="col-lg-3 col-md-6 col-12">
+          <h4 class="my-4">Novel Waypoint</h4>
+
+          <p class="mb-1">
+            <i class="fa fa-envelope mr-2 footer-icon"></i>
+            <a href="../contact.html">Contact us</a>
+          </p>
+        </div>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-lg-8 mx-lg-auto col-md-10 col-12">
+          <p class="copyright-text">
+            Copyright © Novel Waypoint
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </footer>
+
+
+  <!-- SCRIPTS -->
+  <script src="../js/jquery.min.js"></script>
+  <script src="../js/bootstrap.min.js"></script>
+  <script src="../js/aos.js"></script>
+  <script src="../js/owl.carousel.min.js"></script>
+  <script src="../js/smoothscroll.js"></script>
+  <script src="../js/custom.js"></script>
+
+</body>
+</html>
+```
