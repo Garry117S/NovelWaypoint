@@ -1,0 +1,181 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+     <title>Cyberpunk 2077 | Novel Waypoint</title>
+
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+     <meta name="description" content="Book recommendations for Cyberpunk 2077 players. Discover books about futuristic cities, technology, corporations, rebellion, survival and dystopian worlds.">
+     <meta name="keywords" content="Cyberpunk 2077 books, cyberpunk books, books for Cyberpunk fans, futuristic books, dystopian books">
+     <meta name="author" content="">
+     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+     <link rel="stylesheet" href="../css/bootstrap.min.css">
+     <link rel="stylesheet" href="../css/font-awesome.min.css">
+     <link rel="stylesheet" href="../css/aos.css">
+     <link rel="stylesheet" href="../css/owl.carousel.min.css">
+     <link rel="stylesheet" href="../css/owl.theme.default.min.css">
+
+     <!-- MAIN CSS -->
+     <link rel="stylesheet" href="../css/templatemo-digital-trend.css">
+     <link rel="stylesheet" href="../css/linkhighligts.css">
+
+</head>
+
+<body>
+
+
+     <!-- MENU BAR -->
+
+     <nav class="navbar navbar-expand-lg">
+          <div class="container">
+
+               <a class="navbar-brand" href="../index.html">
+                    <i class="fa fa-house-laptop"></i>
+                    Novel Waypoint
+               </a>
+
+               <button class="navbar-toggler" type="button"
+                    data-toggle="collapse"
+                    data-target="#navbarNav"
+                    aria-controls="navbarNav"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation">
+
+                    <span class="navbar-toggler-icon"></span>
+
+               </button>
+
+               <div class="collapse navbar-collapse" id="navbarNav">
+
+                    <ul class="navbar-nav ml-auto">
+
+                         <li class="nav-item">
+                              <a href="../index.html" class="nav-link">Home</a>
+                         </li>
+
+                         <li class="nav-item">
+                              <a href="../blog.html" class="nav-link">Blog</a>
+                         </li>
+
+                         <li class="nav-item">
+                              <a href="../policy.html" class="nav-link">Privacy policy</a>
+                         </li>
+
+                         <li class="nav-item">
+                              <a href="../ShatteredStories.html" class="nav-link">Shattered Stories</a>
+                         </li>
+
+                         <li class="nav-item">
+                              <a href="../contact.html" class="nav-link contact">Contact</a>
+                         </li>
+
+                    </ul>
+
+               </div>
+
+          </div>
+     </nav>
+
+
+
+     <!-- CYBERPUNK 2077 INTRODUCTION -->
+
+     <section class="about section-padding pb-0" id="about">
+
+          <div class="container">
+
+               <div class="row">
+
+                    <div class="col-12">
+
+                         <div class="about-info" data-aos="fade-up">
+
+                              <h2 class="mb-4">
+                                   Cyberpunk 2077.
+                              </h2>
+
+                              <p>
+                                   Cyberpunk 2077 takes you into Night City, a sprawling futuristic metropolis where technology, wealth and desperation exist side by side. Cybernetic enhancements are commonplace, corporations hold enormous power, and almost everyone is looking for a way to survive or get ahead.
+                              </p>
+
+                              <p>
+                                   It's a world of neon streets, artificial intelligence, powerful corporations, hackers, criminals and people trying to maintain their identity in a society increasingly shaped by technology.
+                              </p>
+
+                              <p>
+                                   That's what we've used to choose the books below.
+                              </p>
+
+                              <p>
+                                   Whether you love Night City's atmosphere, its technology, its anti-corporate themes, its characters or the question of what it means to remain human in a technological world, find the part of Cyberpunk 2077 that appeals to you and discover your next book.
+                              </p>
+
+                         </div>
+
+                    </div>
+
+
+
+                    <!-- BOOK RECOMMENDATIONS -->
+
+                    <div class="col-12">
+
+                         <div class="about-info" data-aos="fade-up">
+
+                              <h2 class="mb-4">
+                                   If you like Cyberpunk 2077 because you love...
+                              </h2>
+
+
+
+                              <!-- FUTURISTIC CITIES -->
+
+                              <h3 class="mb-4">
+                                   Neon Cities & Futuristic Worlds
+                              </h3>
+
+                              <p>
+                                   Books that capture the atmosphere of huge futuristic cities where technology is everywhere and the streets are filled with danger, opportunity and people trying to survive.
+                              </p>
+
+
+                              <article class="book-card">
+
+                                   <h3>Neuromancer</h3>
+
+                                   <p class="author">
+                                        William Gibson
+                                   </p>
+
+                                   <p>
+                                        A washed-up hacker is given one last chance to return to cyberspace in a futuristic world dominated by corporations, technology and artificial intelligence.
+                                   </p>
+
+                                   <details>
+
+                                        <summary>Read more</summary>
+
+                                        <div class="book-description">
+
+                                             <p>
+                                                  Neuromancer helped define the cyberpunk genre and presents a world of hackers, artificial intelligence, corporate power and sprawling urban environments.
+                                             </p>
+
+                                             <p>
+                                                  If the atmosphere of Night City is one of your favourite things about Cyberpunk 2077, this is one of the essential books to read.
+                                             </p>
+
+                                             <a href="../books/neuromancer.html">
+                                                  View full book page
+                                             </a>
+
+                                        </div>
+
+                                   </details>
+
+                              </article>
+
+```
