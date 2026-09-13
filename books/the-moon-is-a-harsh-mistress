@@ -1,0 +1,242 @@
+```html id="6x2qpm"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <title>The Moon Is a Harsh Mistress | Novel Waypoint</title>
+
+  <meta charset="UTF-8">
+  <meta name="description" content="The Moon Is a Harsh Mistress by Robert A. Heinlein — a classic science fiction novel about rebellion, artificial intelligence, freedom and revolution. Recommended for fans of Cyberpunk 2077.">
+  <meta name="author" content="Robert A. Heinlein">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/font-awesome.min.css">
+  <link rel="stylesheet" href="../css/aos.css">
+  <link rel="stylesheet" href="../css/owl.carousel.min.css">
+  <link rel="stylesheet" href="../css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="../css/templatemo-digital-trend.css">
+  <link rel="stylesheet" href="../css/linkhighligts.css">
+
+  <script src="https://kit.fontawesome.com/41b50fac75.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-lg">
+    <div class="container">
+
+      <a class="navbar-brand" href="../index.html">
+        <i class="fa fa-house-laptop"></i>
+        Novel Waypoint
+      </a>
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse"
+              data-target="#navbarNav" aria-controls="navbarNav"
+              aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+
+          <li class="nav-item">
+            <a href="../index.html" class="nav-link">Home</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="../blog.html" class="nav-link">Blog</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="../policy.html" class="nav-link">Privacy Policy</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="../ShatteredStories.html" class="nav-link">Shattered Stories</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="../contact.html" class="nav-link">Contact</a>
+          </li>
+
+        </ul>
+      </div>
+
+    </div>
+  </nav>
+
+
+  <!-- BOOK SECTION -->
+  <section class="about section-padding pb-0">
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-12">
+
+          <div class="about-info" data-aos="fade-up">
+
+            <h1>The Moon Is a Harsh Mistress.</h1>
+
+            <h3>Robert A. Heinlein</h3>
+
+            <p>
+              <strong>Recommended for fans of:</strong>
+              <a href="../games/cyberpunk-2077.html">Cyberpunk 2077</a>
+            </p>
+
+            <p>
+              <strong>Genre:</strong> Science fiction / Political fiction
+            </p>
+
+            <p>
+              <strong>First published:</strong> 1966
+            </p>
+
+            <img src="../images/books/the-moon-is-a-harsh-mistress.jpg"
+                 alt="The Moon Is a Harsh Mistress by Robert A. Heinlein"
+                 class="img-fluid mb-4">
+
+
+            <h2>About the book.</h2>
+
+            <p>
+              The Moon has become a place of exile, home to prisoners and settlers
+              living under the control of Earth's authorities. Far from Earth, the
+              people of the lunar colonies have developed their own society and have
+              little desire to remain under outside control.
+            </p>
+
+            <p>
+              Manuel Garcia O'Kelly-Davis, a computer technician living on the Moon,
+              becomes involved in a growing movement for independence. Alongside
+              unlikely allies, he finds himself helping to organise a rebellion against
+              the powerful authority that controls the colony.
+            </p>
+
+            <p>
+              At the heart of the story is Mike, an unusually advanced artificial
+              intelligence that has quietly become self-aware. What begins as a
+              technical relationship develops into something far more important as
+              the characters attempt to change the future of the Moon.
+            </p>
+
+
+            <h2>What to expect.</h2>
+
+            <p>
+              <strong>The Moon Is a Harsh Mistress</strong> combines artificial
+              intelligence, computers, political rebellion and futuristic technology
+              with a story about freedom and independence.
+            </p>
+
+            <p>
+              If you enjoy the conflicts between corporations, governments and
+              individuals in <strong>Cyberpunk 2077</strong>, you'll find a different
+              kind of dystopian struggle here. Instead of fighting for survival in
+              Night City, the characters are fighting to decide who gets to control
+              their own future.
+            </p>
+
+
+            <a href="YOUR-AMAZON-LINK-HERE"
+               class="btn custom-btn"
+               target="_blank"
+               rel="nofollow sponsored noopener">
+              View book on Amazon
+            </a>
+
+            <br><br>
+
+            <a href="../games/cyberpunk-2077.html" class="btn custom-btn">
+              Back to Cyberpunk 2077 books
+            </a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-lg-5 mx-lg-auto col-md-8 col-10">
+          <h1 class="text-white" data-aos="fade-up">
+            Books beyond the screen.
+          </h1>
+        </div>
+
+        <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up"
+             data-aos-delay="200">
+
+          <h4 class="my-4">Novel Waypoint</h4>
+
+          <p>
+            Discover books inspired by the games you love.
+          </p>
+
+        </div>
+
+        <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up"
+             data-aos-delay="300">
+
+          <h4 class="my-4">Contact</h4>
+
+          <p>
+            <a href="mailto:garry@askforgarry.com">
+              garry@askforgarry.com
+            </a>
+          </p>
+
+          <p>
+            <a href="../policy.html">
+              Privacy Policy
+            </a>
+          </p>
+
+        </div>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-12">
+
+          <p class="copyright-text">
+            Copyright © 2026 Novel Waypoint
+          </p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </footer>
+
+
+  <script src="../js/jquery.min.js"></script>
+  <script src="../js/bootstrap.min.js"></script>
+  <script src="../js/aos.js"></script>
+  <script src="../js/owl.carousel.min.js"></script>
+  <script src="../js/smoothscroll.js"></script>
+  <script src="../js/custom.js"></script>
+
+</body>
+</html>
+```
